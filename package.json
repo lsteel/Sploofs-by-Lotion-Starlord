@@ -1,0 +1,11 @@
+{
+  "name": "sploofs",
+  "version": "1.0.0",
+  "description": "Homepage of Sploofs by Lotion Starlord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lotion Starlord",
+  "license": "ISC",
+}
