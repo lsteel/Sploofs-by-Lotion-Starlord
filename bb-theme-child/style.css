@@ -60,4 +60,9 @@ template: bb-theme
   color: $fff;
   transition: all 5s ease;
 }
+@media (max-width: 767px) {
+  .fl-icons-closer .fl-module.fl-module-icon .fl-module-content {
+    margin-bottom: -30px !important;
+  }
+}
 /*# sourceMappingURL=style.css.map */
